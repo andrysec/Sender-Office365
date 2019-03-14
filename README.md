@@ -10,4 +10,4 @@ This (BETA Versions) - Waiting to update PremiumVersions.
 #BestRegards
 
 CEO Service : AndrySec / Fernanda / Ilman / Bell .
-> Contact : sec-bounty@service.com
+> Contact : itsec.andry@gmail.com
